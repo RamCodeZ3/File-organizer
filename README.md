@@ -105,10 +105,9 @@ Después de ejecutar File Organizer 👇
 2️⃣ Selecciona la carpeta **de origen** (por ejemplo, Descargas).  
 3️⃣ Selecciona la carpeta **de destino**.  
 4️⃣ Haz clic en **Organizar**.  
-5️⃣ ¡Listo! Tus archivos estarán ordenados automáticamente. 🪄
+5️⃣ ¡Listo! Tus archivos estarán ordenados automáticamente.
 
 ---
 
 ## 🧾 Licencia  
-Este proyecto está bajo la licencia **MIT**.  
-¡Si te gusta, no dudes en dejar una ⭐ en el repo!
+Este proyecto está bajo la licencia **MIT**.
